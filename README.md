@@ -19,5 +19,5 @@ Plantilles per fer diferents estructures i projectes amb Java.
 
 ## Creació de classes
 
-[Definició](https://github.com/daw-mp5/plantilles/blob/main/src/sole/aleix/plantilles/gos/Gos.java)
+[Definició](https://github.com/daw-mp5/plantilles/blob/main/src/sole/aleix/plantilles/gos/Gos.java)  
 [Utilització](https://github.com/daw-mp5/plantilles/blob/main/src/sole/aleix/plantilles/classe1/Classe1.java)
