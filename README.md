@@ -16,3 +16,8 @@ Plantilles per fer diferents estructures i projectes amb Java.
 ## Bucles
 
 [Bucles](https://github.com/daw-mp5/plantilles/blob/main/src/sole/aleix/plantilles/bucles/Bucles.java)
+
+## Creació de classes
+
+[Definició](https://github.com/daw-mp5/plantilles/blob/main/src/sole/aleix/plantilles/gos/Gos.java)
+[Utilització](https://github.com/daw-mp5/plantilles/blob/main/src/sole/aleix/plantilles/classe1/Classe1.java)
